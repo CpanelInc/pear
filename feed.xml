@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://cpanelinc.github/pear">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://cpanelinc.github.com/pear">
     <title>cPanel PEAR channel Latest Releases</title>
-    <link href="http://cpanelinc.github/pear" />
+    <link href="http://cpanelinc.github.com/pear" />
     <author>
-        <name>http://cpanelinc.github/pear</name>
+        <name>http://cpanelinc.github.com/pear</name>
     </author>
 
 

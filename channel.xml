@@ -6,10 +6,10 @@
     <servers>
         <primary>
             <rest>
-                <baseurl type="REST1.0">http://cpanelinc.github/pear/rest/</baseurl>
-                <baseurl type="REST1.1">http://cpanelinc.github/pear/rest/</baseurl>
-                <baseurl type="REST1.2">http://cpanelinc.github/pear/rest/</baseurl>
-                <baseurl type="REST1.3">http://cpanelinc.github/pear/rest/</baseurl>
+                <baseurl type="REST1.0">http://cpanelinc.github.com/pear/rest/</baseurl>
+                <baseurl type="REST1.1">http://cpanelinc.github.com/pear/rest/</baseurl>
+                <baseurl type="REST1.2">http://cpanelinc.github.com/pear/rest/</baseurl>
+                <baseurl type="REST1.3">http://cpanelinc.github.com/pear/rest/</baseurl>
             </rest>
         </primary>
     </servers>
