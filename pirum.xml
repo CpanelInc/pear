@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+    <name>cpanelinc.github.com/pear</name>
+    <summary>cPanel PEAR channel</summary>
+    <alias>Cpanel</alias>
+    <url>http://cpanelinc.github/pear</url>
+</server>
