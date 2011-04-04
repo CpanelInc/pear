@@ -6,5 +6,16 @@
         <name>http://cpanelinc.github.com/pear</name>
     </author>
 
-
+    <entry>
+        <title>Cpanel 0.1.0 (beta)</title>
+        <link href="http://cpanelinc.github.com/pear/get/Cpanel-0.1.0.tgz" />
+        <id>Cpanel-0.1.0</id>
+        <author>
+            <name>davidneimeyer</name>
+        </author>
+        <updated>2011-04-03T18:54:53-05:00</updated>
+        <content>
+            cPanel's PHP library for programming against various remote and local cPanel APIs
+        </content>
+    </entry>
 </feed>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
+    <p xlink:href="/rest/p/cpanel">Cpanel</p>
+    <c>cpanelinc.github.com/pear</c>
+    <v>0.1.0</v>
+    <a>0.1.0</a>
+    <mp>5.2</mp>
+    <st>beta</st>
+    <l>BSD Style</l>
+    <m>davidneimeyer</m>
+    <s>cPanel PHP library</s>
+    <d>cPanel's PHP library for programming against various remote and local cPanel APIs</d>
+    <da>2011-04-03 18:54:53</da>
+    <n>
+Initial BETA release
+ </n>
+    <f>111241</f>
+    <g>http://cpanelinc.github.com/pear/get/Cpanel-0.1.0</g>
+    <x xlink:href="package.0.1.0.xml"/>
+</r>
